@@ -4,3 +4,57 @@ https://console.cloud.google.com/
 
 
 https://goong.io/
+
+
+Xác thực & Quản lý tài khoản người dùng:
+Hệ thống đăng ký và đăng nhập (email/mật khẩu)
+Tích hợp đăng nhập Google OAuth
+Hệ thống khôi phục mật khẩu (quên mật khẩu)
+Quản lý hồ sơ cá nhân
+Quản lý số dư tài khoản
+Hệ thống đăng tin bất động sản:
+Tạo và quản lý tin đăng bất động sản
+Nhiều loại bất động sản khác nhau (phòng trọ, nhà nguyên căn, căn hộ chung cư, căn hộ mini)
+Tải lên hình ảnh cho bất động sản
+Tin đăng loại VIP và thường
+Hệ thống phê duyệt tin đăng (quản trị viên)
+Tìm kiếm & Khám phá:
+Chức năng tìm kiếm thông thường
+Hệ thống tìm kiếm sử dụng AI
+Theo dõi từ khóa tìm kiếm phổ biến/hot
+Gợi ý bất động sản
+Hệ thống thanh toán:
+Tích hợp cổng thanh toán VNPay và Momo
+Hệ thống nạp tiền vào tài khoản
+Theo dõi thanh toán
+Yêu thích & Đánh dấu:
+Lưu bất động sản yêu thích
+Quản lý danh sách yêu thích
+Nhắn tin & Liên lạc:
+Nhắn tin thời gian thực giữa người dùng (Socket.io)
+Hệ thống thông báo tin nhắn
+Theo dõi trạng thái đọc tin nhắn
+Bảng quản trị Admin:
+Quản lý người dùng
+Kiểm duyệt tin đăng (phê duyệt/từ chối)
+Thống kê và báo cáo
+Giám sát hệ thống
+Tính năng AI:
+Tìm kiếm bằng AI
+Chức năng chatbot
+Giao diện người dùng:
+Thiết kế responsive
+Trang chi tiết bất động sản
+Trang chủ với tin đăng nổi bật
+Bảng điều khiển người dùng
+Tính năng kỹ thuật:
+Cập nhật thời gian thực với Socket.io
+Xác thực dựa trên token (JWT)
+Xử lý mật khẩu an toàn
+Lưu trữ và quản lý hình ảnh
+Thống kê và phân tích dành cho admin
+Ứng dụng theo kiến trúc MERN stack điển hình với:
+MongoDB để lưu trữ dữ liệu
+Express.js cho backend API
+React cho frontend
+Node.js làm môi trường runtime
